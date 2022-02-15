@@ -1,0 +1,14 @@
+{
+  "name": "devs-team",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sadik": "json-server --watch db.json --port 8800"
+  },
+  "author": "sadik",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

@@ -1,0 +1,95 @@
+{
+    "devs"  :[
+        {
+            "id"      :1,
+            "name"    :"Zonayed Ahamad",
+            "skill"   :"Javascript",
+            "adress"  :"Khulna",
+            "gender"  :"Male",
+            "income"  : 100,
+            "image"   :"https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/271709276_700456181364022_5440642696709932769_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFJh6r7BdzR0fHspghDNi6uooGhKPeopyaigaEo96inJhzq6grxsKYXfpa3MptRmyQs2u6Bi8ISiimXCt9MvjHJ&_nc_ohc=BW8HhyCmwWMAX9cStmq&_nc_ht=scontent.fdac24-1.fna&oh=00_AT-0QOk9EYQS95BtF7FvGB9QLtFSFY2RfNk-L17dIN7_aA&oe=6210E1CA"
+        },
+        {
+            "id"      :2,
+            "name"    :"Md Ronju Ahmed",
+            "skill"   :"Laravel",
+            "adress"  :"Dhaka",
+            "gender"  :"Male",
+            "income"   : 80,
+            "image"   :"https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-1/p200x200/240119902_344717747440108_6874735942401651423_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeHka_61iduykMIo8-JCz6EYrn5ZuSE9izeuflm5IT2LN7mz5UBK0JXCno7f_eVScvprp4cb9tjW4YyPcTgFExct&_nc_ohc=in7rtEzeLWcAX9JIw8z&_nc_ht=scontent.fdac24-2.fna&oh=00_AT-Sqf4ojC2wYgnhZfiiKqhO1jJChDWHAqfF6eYMT2TimQ&oe=62103D5E"
+        },
+        {
+            "id"      :3,
+            "name"    :"Imran Hossain",
+            "skill"   :"PHP",
+            "adress"  :"Kishorganj",
+            "gender"  :"Male",
+            "income"   : 120,
+            "image"   :"https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-1/s200x200/267522714_3080798165530802_5254473772724660641_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeGq-eB4qCLJEaBvi9bjjsRi70gKDD5RDWDvSAoMPlENYFbCRHHBnd-rBWQqBA6F1sdnt9fA276ISQmLc_35UxlU&_nc_ohc=82eGvEA2goYAX9t6vdG&_nc_ht=scontent.fdac24-2.fna&oh=00_AT8W0166qIAEGgVIXUpgcavcvz5yfkA3y9gl8KvqYYgY5w&oe=62102428"
+        },
+        {
+            "id"      :4,
+            "name"    :"মির্জা সৌরভ",
+            "skill"   :"WordPress",
+            "adress"  :"Bogura",
+            "gender"  :"Male",
+            "income"   : 100,
+            "image"   :"https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/272619920_1007195243473375_1655553239128927051_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeH93yrEspNomypCivSd9fHfi6L078S8qsWLovTvxLyqxQCnK5Q1ff6ijZuOm5c9s40UVR62Vfv1tCLgZku_l2WD&_nc_ohc=mMiAt9VMSmkAX-kessu&_nc_ht=scontent.fdac24-1.fna&oh=00_AT_2SOGATbNaZFdgPt9PlW1PmnWoLWMvcpA0OeKb0bxPSg&oe=62113D5C"
+        },
+        {
+            "id"      :5,
+            "name"    :"Rohan Mostofa",
+            "skill"   :"Golan",
+            "adress"  :"JamalPur",
+            "gender"  :"Male",
+            "income"   : 180,
+            "image"   :"https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/269598096_592726115354310_6389621578989359445_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFFksGiICh9pc8nz1tAIHeT9r9ISbosX5r2v0hJuixfmiwMnWUPkTi8wo_2M67TEtafwAYAA1aWqLc6oUucak9y&_nc_ohc=oV10O1S7cNwAX-FKpIV&_nc_ht=scontent.fdac24-1.fna&oh=00_AT-IaftJeFMlhUtnJyEx23jVKmPN7vVxSgsgzf3T8g71SQ&oe=621012CF"
+        },
+        {
+            "id"      :6,
+            "name"    :"Abdus Samad",
+            "skill"   :"Javascript",
+            "adress"  :"JamalPur",
+            "gender"  :"Male",
+            "income"   : 200,
+            "image"   :"https://scontent.fdac24-2.fna.fbcdn.net/v/t1.6435-9/133291252_1775437672622699_196678588946591649_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFN87_7wztY17an-WfhOgEx8iaOBoUGQvbyJo4GhQZC9loTq23YwatrU05mgNQXTkBG-HHr2c6mS76qNeZG5vhJ&_nc_ohc=HFul7vJ7uKwAX9ldw2m&_nc_oc=AQmxTrPWVAVwxycn8YU4TbB-Rp-EzEqTkR_fqQCR-8RyfhwIoPh70n-1QUTC_NLUOnc&_nc_ht=scontent.fdac24-2.fna&oh=00_AT8kHGtBEc_1jS1iyhQtW0lFHGgJip2tJCcwo0yd0wvVBw&oe=623259BD"
+        },
+        {
+            "id"      :7,
+            "name"    :"Zinnah Ali",
+            "skill"   :"PHP",
+            "adress"  :"Potuakhali",
+            "gender"  :"Male",
+            "income"   : 80,
+            "image"   :"https://scontent.fdac24-2.fna.fbcdn.net/v/t1.6435-9/89203175_801230890363667_6167523090881314816_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGNL6TcTrgRidoq6qQBCldSnmdy_HnXSbKeZ3L8eddJskLCo78lpyXYgUa7gE02zJyHg36g1AR2pPVo_KCiDFmd&_nc_ohc=qB6nJsVPtocAX8K5I24&tn=yFBLE-aOmu1QyK5X&_nc_ht=scontent.fdac24-2.fna&oh=00_AT_rMLgklTMZ2Ukj2k9zY77RJB79U3SwrSChE0eFdaTEJA&oe=62318C06"
+        },
+        {
+            "id"      :8,
+            "name"    :"Mizanur Rahman Prince",
+            "skill"   :"Laravel",
+            "adress"  :"Khulna",
+            "gender"  :"Male",
+            "income"   : 150,
+            "image"   :"https://scontent.fdac24-2.fna.fbcdn.net/v/t1.18169-9/28471359_603502426655269_88398682433341256_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHnvJk84EZT8ijJz_iKHS9ld4mVWiEBGS13iZVaIQEZLfeBLu2qEzODaepH11oZ_lx1253mfJhRoD1j-Ceravdx&_nc_ohc=pQk26ErKmtMAX-lf8Qt&_nc_ht=scontent.fdac24-2.fna&oh=00_AT-lwwJiqzQGaqwIkZAUIAslW2d4kpCHOqd-H9qdgO7YzA&oe=62326494"
+        },
+        {
+            "id"      :9,
+            "name"    :"Ananda Kumar Saha",
+            "skill"   :"WordPress",
+            "adress"  :"Chuadanga",
+            "gender"  :"Male",
+            "income"   : 120,
+            "image"   :"https://scontent.fdac24-2.fna.fbcdn.net/v/t1.6435-1/p200x200/160980436_2873645602899195_291559288417585381_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeG0yh_SdwtGre0uPi5vbd3CGkkuz9CX2b0aSS7P0JfZvfLbRDkn-KBO9UPORZ-QozNTeFnRKQ0DTD9vUfpKOnBn&_nc_ohc=q8LLaNgWWL0AX9Jpn7H&_nc_ht=scontent.fdac24-2.fna&oh=00_AT9aXklyANTPeoLEocRtf8n1qrGciyri4hti4jNs-Y3Ywg&oe=623159A1"
+        },
+        {
+            "id"      :10,
+            "name"    :"Ri Doy",
+            "skill"   :"Golan",
+            "adress"  :"JamalPur",
+            "gender"  :"Male",
+            "income"   : 180,
+            "image"   :"https://scontent.fdac24-1.fna.fbcdn.net/v/t1.6435-9/54517169_613518402453288_3342256151457693696_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=174925&_nc_eui2=AeF1jNbnUaYYvVvoM1zg0K98l18UTyA65XqXXxRPIDrleiTjcikusJ2keBhTxAJPGYXYrE2NMqMwtpz7tjqULu9w&_nc_ohc=DKUx7wCOGOcAX9dWUm4&_nc_ht=scontent.fdac24-1.fna&oh=00_AT-vWIyANf-ajWNlmnRi28EcLjmlQqdae176sE0aKyjwkw&oe=62328E48"
+        }
+       
+    ]
+}
